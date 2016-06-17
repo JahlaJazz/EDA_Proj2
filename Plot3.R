@@ -1,4 +1,6 @@
-#  Question : has the total emission in Baltimore City, Maryland decreased from 1999 to 2008, by type
+#  Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, 
+# which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? 
+# Which have seen increases in emissions from 1999–2008?  
 
 library(ggplot2)
 
